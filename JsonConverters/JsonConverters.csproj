@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <PackageId>JsonConverters</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Dark Phantom</Authors>
+        <Company>DarkSolutions</Company>
+        <Title>JsonConverters</Title>
+        <Description>A Package with Converters for Newtonsoft.Json.</Description>
+        <PackageLicenseUrl>https://github.com/DesselBane/ExceptionMiddleware/blob/master/Licence.txt</PackageLicenseUrl>
+        <PackageProjectUrl>https://github.com/DesselBane/ExceptionMiddleware</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/DesselBane/ExceptionMiddleware</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>WebApi;AspNet;SPA</PackageTags>
+        <IncludeSource>True</IncludeSource>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Newtonsoft.Json" Version="11.0.2"/>
+    </ItemGroup>
+
+</Project>
