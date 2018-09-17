@@ -8,11 +8,11 @@
         <Company>DarkSolutions</Company>
         <Title>JsonConverters</Title>
         <Description>A Package with Converters for Newtonsoft.Json.</Description>
-        <PackageLicenseUrl>https://github.com/DesselBane/ExceptionMiddleware/blob/master/Licence.txt</PackageLicenseUrl>
-        <PackageProjectUrl>https://github.com/DesselBane/ExceptionMiddleware</PackageProjectUrl>
-        <RepositoryUrl>https://github.com/DesselBane/ExceptionMiddleware</RepositoryUrl>
+        <PackageLicenseUrl>https://github.com/DesselBane/JsonConverters/blob/master/Licence.txt</PackageLicenseUrl>
+        <PackageProjectUrl>https://github.com/DesselBane/JsonConverters.git</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/DesselBane/JsonConverters.git</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
-        <PackageTags>WebApi;AspNet;SPA</PackageTags>
+        <PackageTags>Converter;Newtonsoft.Json</PackageTags>
         <IncludeSource>True</IncludeSource>
     </PropertyGroup>
 
